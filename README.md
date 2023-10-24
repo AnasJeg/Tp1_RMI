@@ -5,7 +5,9 @@ This project is a Java-based machine and room management system designed for eff
 
 ## Demo
 
-https://github.com/AnasJeg/Tp1_RMI/assets/92539089/e415cc21-2eb5-4cda-b58f-bde0eb9f3eb1
+https://github.com/AnasJeg/Tp1_RMI/assets/92539089/937e8050-c0e6-4654-b6d1-beec6c2f2a0e
+
+
 
 
 
